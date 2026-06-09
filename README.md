@@ -120,6 +120,6 @@ portfolio-website/
 +----------------------+
 ```
 
-> You can also add screenshots later by creating a `screenshots` folder and embedding images in the README.
+
 
 ---
